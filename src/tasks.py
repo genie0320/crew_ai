@@ -4,6 +4,7 @@
 - output : 산출물
 - agent : 이름
 - async : True - 다른 에이전트의 일을 기다려야 하는가?
+- (optional) context : 문맥정보
 """
 
 from textwrap import dedent
