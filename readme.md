@@ -11,3 +11,10 @@ pip install -qU crewai exa_py
 
 ## Resources
 Video : [CrewAI Course (step-by-step) | Complete Tutorial for Beginners](https://youtu.be/kBXYFaZ0EN0?si=_OLxNoZ-1dW5-yld&t=2052)
+Article : [Crew AI Crash Course (Step by Step)](https://alejandro-ao.com/crew-ai-crash-course-step-by-step/#tools)
+Website : 
+- [crewAI Documentation](https://docs.crewai.com/)
+Git-hub : 
+- [alejandro-ao / crewai-crash-course](https://github.com/alejandro-ao/crewai-crash-course)
+- [joaomdmoura / crewAI](https://github.com/joaomdmoura/crewAI)
+- [joaomdmoura / crewAI-examples](https://github.com/joaomdmoura/crewAI-examples)
